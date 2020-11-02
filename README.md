@@ -8,7 +8,7 @@ How have we implemented agile?
 Throughout our weekly training sprints we are constantly communicating face to face as a team and throughout the process are having daily scrum meetings in the mornings as well as weekly sprint reviews where we review the week and find out what went well and what could have been done better.
 ## Scrum	
 Scrum is a framework used to enable teams to work together easier and focuses on learning through experiences and reflection on wins and losses to constantly improve
-![](Images\Scrum)
+![](Images/Scrum.png)
 There are about three roles within scrum which are listed below:
 • Scrum Master – responsible for holding the scrum together and ensuring the scrum is done well. They are also responsible for helping product owner define value and ensuring the development team deliver that value.
 • Development team – comprised of designers, writes, programmers and many more people. They are responsible for developing the project and doing the work.
@@ -67,7 +67,7 @@ T – Testable
 
 ## Kanban
 Kanban is a framework used to implement agile and is achieved through the use of a Kanban board where team members are able to see the state of every task at any time. It relates to agile as Kanban is used to help teams adhere to agile principles by increasing productivity. The following table summarises how Kanban compares to scrum.
-![](Images\Scrum_Kanban)
+![](Images/Scrum_Kanban.png)
 ### When to use Kanban?
 Kanban is more versatile than scrum and often both are employed together which is referred to as “Scrum-ban”. The versatility of Kanban means you can pick parts that you want to use and leave out parts which you don’t want to use. 
 Kanban focuses on flow and throughput allowing the team to visualise and burn through small pieces of work as they come up. This is because the Kanban board will show to all team members in small packages. Planning is also not important in this stage.
